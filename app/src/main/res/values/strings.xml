@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task3Application</string>
+    <string name="edit_mes">Enter text here</string>
+    <string name="button_send">GO!</string>
+</resources>
